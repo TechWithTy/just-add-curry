@@ -10,7 +10,6 @@ export default function Layout({ children }) {
               <span>Just Add</span>
               <span>Curry</span>
             </h1>
-            
           </a>
         </Link>
       </header>
